@@ -1,5 +1,5 @@
 ## LM-CSS
-![Logo de java](https://s0.smartresize.com/wallpaper/157/626/HD-wallpaper-java-glitter-logo-programming-language-grid-metal-background-java-creative-programming-language-signs-java-logo-thumbnail.jpg](https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo-2011.png))
+![Logo de css](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)
 # Descripción
 Este es mi examen de CSS y consiste en una paguina web hecha en CSS sobre recetas de cocina como unas lentejas.
 ---
